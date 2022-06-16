@@ -1,0 +1,2 @@
+cd /d "C:\Users\aqibn\source\repos\FYP_Server\FYP_Server" &msbuild "FYP_Server.csproj" /t:sdvViewer /p:configuration="Debug" /p:platform="Any CPU" /p:SolutionDir="C:\Users\aqibn\source\repos\FYP_Server" 
+exit %errorlevel% 
